@@ -14,4 +14,4 @@ You will need to connect your Google Calendar first via Google [Calendar API](ht
 
 
 
-I have built this file keeping my specific use case in mind; however, if there's anything you feel I can help to generalize - please let me know. 
+I have built this file keeping my specific use case in mind; however, if there's anything you feel I can help to generalize - please let me know by starting an issue under the label of enhancement.
